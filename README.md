@@ -7,8 +7,7 @@ Terkadang HP IPhone susah terhubung ke jaringan hotspot mikrotik, hal itu diseba
 4. Gulir ke bawah hingga menemukan opsi **"Configure DNS"** (Konfigurasi DNS).
 5. Ketuk **"Configure DNS"**, kemudian ubah dari **"Automatic"** menjadi **"Manual"**.
 6. Setelah itu, tambahkan DNS baru dengan mengetuk **"Add Server"**, lalu masukkan alamat DNS yang Ada di Mikrotik Anda, seperti:
-   - DNS Mikrotik RB SENO: `10.105.8.1` dan `172.16.105.1`
-   - DNS mikrotik lainnya: lihat di winbox, menu IP > DNS > DNS Static, nah itulah dimasukkan ke DNS iPhone Anda
+   - `172.16.8.1`   
 7. Setelah selesai, ketuk **"Save"** untuk menyimpan perubahan.
 
 DNS Anda kini telah diubah di jaringan Wi-Fi tersebut.
